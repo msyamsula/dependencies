@@ -1,9 +1,9 @@
-package dependencies
+package v2
 
 import "testing"
 
 func TestHello(t *testing.T) {
-	want := "this is stable version"
+	want := "this is v2"
 	if got := Hello(); got != want {
 		t.Errorf("Hello() = %q, want %q", got, want)
 	}
