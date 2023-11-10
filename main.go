@@ -5,7 +5,7 @@ import (
 )
 
 func Hello() string {
-	return "this is alpha"
+	return "this is stable version"
 }
 
 func Proverb() string {
