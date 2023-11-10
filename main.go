@@ -5,7 +5,7 @@ import (
 )
 
 func Hello() string {
-	return "this is beta in master"
+	return "this is alpha"
 }
 
 func Proverb() string {
