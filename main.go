@@ -5,7 +5,7 @@ import (
 )
 
 func Hello() string {
-	return quote.HelloV3()
+	return "this is beta in master"
 }
 
 func Proverb() string {
